@@ -1,0 +1,12 @@
+{
+    "name": "tech_articles",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@qiita/qiita-cli": "^1.5.0"
+    }
+}
